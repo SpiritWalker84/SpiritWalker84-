@@ -19,11 +19,13 @@ Python · Telegram / VK-боты · React · FastAPI · Laravel · Docker · Cur
 
 ## Кейсы
 
-| Проект | Для кого | Что получает клиент |
-|--------|----------|---------------------|
-| [Калькулятор сметы](https://github.com/SpiritWalker84/FGIp05) | Строительная компания | Смета считается сама, менеджеру в Telegram приходит готовая заявка с цифрами |
-| [Трекер заявок](https://github.com/SpiritWalker84/FGIp07) | Сервис и небольшая команда | Задачи и заявки с статусами и ролями — ничего не теряется в переписке |
-| [AI-бот VK](https://github.com/SpiritWalker84/FGIp04) | Сервис, который живёт в сообщениях | Ответы 24/7: ночная смена без человека, заявки собираются сами |
+<a href="https://github.com/SpiritWalker84/FGIp05">
+  <img src="https://raw.githubusercontent.com/SpiritWalker84/FGIp05/main/images/01-hero.png" alt="Калькулятор сметы для стройки" width="800" />
+</a>
+
+- [Калькулятор сметы](https://github.com/SpiritWalker84/FGIp05) — строительная компания. Смета считается сама, менеджеру в Telegram приходит готовая заявка с цифрами.
+- [Трекер заявок](https://github.com/SpiritWalker84/FGIp07) — сервис и небольшая команда. Статусы и роли, ничего не теряется в переписке.
+- [AI-бот VK](https://github.com/SpiritWalker84/FGIp04) — ответы 24/7, ночная смена без человека.
 
 ## Как работаем
 
